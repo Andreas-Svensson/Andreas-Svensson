@@ -1,5 +1,7 @@
 ![](assets/profile_image.png)
 
+<img src="assets/profile_image.png" alt="animated Python logo" width="10%" height="10%" />
+
 # Andreas Svensson
 
 I am a 27 year old student at ITHS studying AI and Machine Learning
