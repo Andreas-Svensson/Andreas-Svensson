@@ -9,6 +9,7 @@ I am a 27 year old student at ITHS studying AI and Machine Learning
 ## GitHub portfolio
 
 This list will be updated with more material as I go through the different courses at ITHS
+
 Click on a course below to view the repository containing my work on that specific course
 
 
