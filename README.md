@@ -1,6 +1,4 @@
-![](assets/profile_image.png)
-
-<img src="assets/profile_image.png" alt="animated Python logo" width="10%" height="10%" />
+<img src="assets/profile_image.png" alt="animated Python logo" width="20%" height="20%" />
 
 # Andreas Svensson
 
