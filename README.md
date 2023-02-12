@@ -2,7 +2,7 @@
 
 # Andreas Svensson
 
-I am a 27 year old student at ITHS studying AI and Machine Learning
+I am a 28 year old student at ITHS studying AI and Machine Learning
 
 ---
 
