@@ -1,22 +1,51 @@
-<img src="assets/profile_image.png" alt="animated Python logo" width="20%" height="20%" />
+[//]: #  (<img src="assets/profile_image.png" alt="animated Python logo" width="20%" height="20%"/>)
 
-# Andreas Svensson
-
-I am a 28 year old student at ITHS studying AI and Machine Learning
+Studying AI and Machine Learning at IT-Högskolan
 
 ---
 
-## GitHub portfolio
+## Currently Working On:
 
-This list will be updated with more material as I go through the different courses at ITHS  
-Click on a course below to view the repository containing my work on that specific course
+### Project Link
 
+Project Description
 
+---
 
-| Repo                           | Description                        |
-| ------------------------------ | ---------------------------------- |
-| [Python][py]            | Python programming course               |
+## My Repositories
 
-<!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
+Click on a link below to view the repository
+
+| ITHS Courses | Description |
+| --- | --- |
+| [Python][py] | Python programming Course |
+| [Databehandling][db] | Databehandling course |
+| [Statistics][st] | Statistical Analysis course |
+| [Machine Learning][ml] | Machine Learning course |
 
 [py]: https://github.com/Andreas-Svensson/Python-Andreas-Svensson
+[db]: https://github.com/Andreas-Svensson/Databehandling-Andreas-Svensson
+[st]: https://github.com/Andreas-Svensson/Statistics
+[ml]: https://github.com/Andreas-Svensson/Machine-Learning
+
+---
+
+## Personal Projects
+
+### Project Link
+
+Project Description
+
+---
+
+## ITHS Projects
+
+Projects done as part of my education at IT-Högskolan
+
+### [Correlation Analysis][ca]  
+
+A report on correlation analysis for the iris flower dataset
+
+![](assets/iris_flower.png)
+
+[ca]: https://github.com/Andreas-Svensson/Statistics/blob/main/project/report.md
