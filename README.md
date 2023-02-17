@@ -6,9 +6,12 @@ Studying AI and Machine Learning at IT-Högskolan
 
 ## Currently Working On:
 
-### Project Link
+### [Tic Tac Toe Minigame][ttt]  
 
-Project Description
+[ttt]: https://github.com/Andreas-Svensson/tic-tac-toe
+
+Learning pygame and integrating python code through Discord API  
+Upcoming: Making a Discord bot that will be able to host games between users  
 
 ---
 
@@ -30,17 +33,15 @@ Click on a link below to view the repository
 
 ---
 
-## Personal Projects
+## Projects
 
-### Project Link
+### WIP [Tic Tac Toe Minigame][ttt]  
 
-Project Description
+[ttt]: https://github.com/Andreas-Svensson/tic-tac-toe
+
+Discord compatible minigame that can be hosted by a Discord bot or ran as standalone
 
 ---
-
-## ITHS Projects
-
-Projects done as part of my education at IT-Högskolan
 
 ### [Correlation Analysis][ca]  
 
