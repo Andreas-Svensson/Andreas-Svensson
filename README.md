@@ -6,12 +6,19 @@ Studying AI and Machine Learning at IT-Högskolan
 
 ## Currently Working On:
 
-### [Tic Tac Toe Minigame][ttt]  
+### [Discord Bot][db]
 
-[ttt]: https://github.com/Andreas-Svensson/tic-tac-toe
+Learning python Discord integration through Discord API  
 
-Learning pygame and integrating python code through Discord API  
-Upcoming: Making a Discord bot that will be able to host games between users  
+[db]: https://github.com/Andreas-Svensson/tic-tac-toe
+
+---
+
+### [Minigame][mg]  
+
+Making a Tic Tac Toe game in python that will be played by my Discord bot, and learning pygame along the way  
+
+[mg]: https://github.com/Andreas-Svensson/tic-tac-toe
 
 ---
 
@@ -21,7 +28,7 @@ Click on a link below to view the repository
 
 | ITHS Courses | Description |
 | --- | --- |
-| [Python][py] | Python programming Course |
+| [Python][py] | Python programming course |
 | [Databehandling][db] | Databehandling course |
 | [Statistics][st] | Statistical Analysis course |
 | [Machine Learning][ml] | Machine Learning course |
@@ -35,9 +42,17 @@ Click on a link below to view the repository
 
 ## Projects
 
-### WIP [Tic Tac Toe Minigame][ttt]  
+### WIP [Discord Bot][db]
 
-[ttt]: https://github.com/Andreas-Svensson/tic-tac-toe
+Discord bot that can react to commands and play minigames in chat
+
+[db]: https://github.com/Andreas-Svensson/tic-tac-toe
+
+---
+
+### WIP [Minigame][mg]  
+
+[mg]: https://github.com/Andreas-Svensson/tic-tac-toe
 
 Discord compatible minigame that can be hosted by a Discord bot or ran as standalone
 
