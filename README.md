@@ -4,9 +4,7 @@
 
 Seeking internship for the autumn of 2023. Don't hesitate to reach out if you are interested, I am open to exploring all opportunities!
 
----
-
-## My Projects:
+# My Projects:
 
 # [Correlation Analysis][ca]  
 
@@ -18,8 +16,6 @@ Using statistical analysis to examine correlation between flower petal and sepal
 
 [ca]: https://github.com/Andreas-Svensson/Statistics/blob/main/project/report.md
 
----
-
 # [Movie Recommendation System][mr]  
 
 ### Using Machine Learning to recommend movies based on watch history and user ratings
@@ -30,19 +26,13 @@ Model: KNN cosine similarity
 
 [mr]: https://github.com/Andreas-Svensson/movie_recommender
 
----
-
 # WIP: [Predicting Heart Disease](https://github.com/Andreas-Svensson/disease_prediction)
-
-*Start date: 2023-03-20 (week 12)*
 
 ### Analysing health parameters to predict risk of heart disease  
 
 Using multiple machine learning models and comparing evaluation scores
 
 ![](assets/heart_disease.png)
-
----
 
 ## Course Repositories:
 
@@ -62,15 +52,13 @@ Click on a link below to view the repository
 
 ## Personal Projects:
 
-### WIP [Discord Bot][db]
+## WIP [Discord Bot][db]
 
 Discord bot that can react to commands and play minigames in chat
 
 [db]: https://github.com/Andreas-Svensson/tic-tac-toe
 
----
-
-### WIP [Tic Tac Toe Minigame][mg]  
+## WIP [Tic Tac Toe Minigame][mg]  
 
 [mg]: https://github.com/Andreas-Svensson/tic-tac-toe
 
