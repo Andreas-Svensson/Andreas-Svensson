@@ -1,6 +1,6 @@
 [//]: #  (<img src="assets/profile_image.png" alt="animated Python logo" width="20%" height="20%"/>)
 
-### AI and Machine Learning Developer studying at IT-Högskolan  
+## AI and Machine Learning Developer studying at IT-Högskolan  
 
 Seeking internship for the autumn of 2023. Don't hesitate to reach out if you are interested, I am open to exploring all opportunities!
 
@@ -10,7 +10,7 @@ Seeking internship for the autumn of 2023. Don't hesitate to reach out if you ar
 
 # [Correlation Analysis][ca]  
 
-#### A report on correlation analysis for the iris flower dataset  
+### A report on correlation analysis for the iris flower dataset  
 
 Using statistical analysis to examine correlation between flower petal and sepal measurements  
 
@@ -20,11 +20,11 @@ Using statistical analysis to examine correlation between flower petal and sepal
 
 ---
 
-# WIP [Movie Recommendation System][mr]  
+# [Movie Recommendation System][mr]  
 
-#### Building a system to recommend movies based on watch history and user ratings  
+### Using Machine Learning to recommend movies based on watch history and user ratings
 
-Using KNN cosine similarity
+Model: KNN cosine similarity  
 
 ![image from https://movielens.org/](assets/movie_recommendations.png)
 
@@ -32,11 +32,11 @@ Using KNN cosine similarity
 
 ---
 
-# Upcoming: Predicting Heart Disease
+# WIP: [Predicting Heart Disease](https://github.com/Andreas-Svensson/disease_prediction)
 
 *Start date: 2023-03-20 (week 12)*
 
-#### Analysing health parameters to predict risk of heart disease  
+### Analysing health parameters to predict risk of heart disease  
 
 Using multiple machine learning models and comparing evaluation scores
 
