@@ -2,8 +2,6 @@
 
 ## AI and Machine Learning Developer studying at IT-Högskolan  
 
-Seeking internship for the autumn of 2023. Don't hesitate to reach out if you are interested, I am open to exploring all opportunities!
-
 # My Projects:
 
 # [Correlation Analysis][ca]  
@@ -26,7 +24,7 @@ Model: KNN cosine similarity
 
 [mr]: https://github.com/Andreas-Svensson/movie_recommender
 
-# WIP: [Predicting Heart Disease](https://github.com/Andreas-Svensson/disease_prediction)
+# [Predicting Heart Disease](https://github.com/Andreas-Svensson/disease_prediction)
 
 ### Analysing health parameters to predict risk of heart disease  
 
