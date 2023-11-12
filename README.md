@@ -1,30 +1,35 @@
-# AI and Machine Learning Developer  
+***Harnessing the power of artificial intelligence to drive innovation***  
+
+Excited for the upcoming Advent of Code!  
 
 Looking for work in the AI field  
-Currently working with: Computer Vision    
+Currently working with Computer Vision    
 
 <br>  
 
-**My projects:**
+### [AI Summarizer](https://github.com/Andreas-Svensson/summary_bot)  
 
-## [Predicting Heart Disease](https://github.com/Andreas-Svensson/disease_prediction)
-
-**Analysing health parameters to predict risk of heart disease**  
+Summarizing AI news articles using a LLM to be displayed in a dashboard and sent to Discord as daily news updates  
 
 <br>  
 
-## [Movie Recommendation System](https://github.com/Andreas-Svensson/movie_recommender)  
+### [Predicting Heart Disease](https://github.com/Andreas-Svensson/disease_prediction)  
 
-**Using Machine Learning to recommend movies based on watch history and user ratings**  
+Analysing health parameters and using AI to predict increased risk of heart disease in patients  
 
+<br>  
+
+### [Movie Recommendation System](https://github.com/Andreas-Svensson/movie_recommender)  
+
+Using Machine Learning to recommend movies based on watch history and user ratings  
 Model used: KNN cosine similarity  
 
 <br>  
+ 
 
-## [Correlation Analysis](https://github.com/Andreas-Svensson/Statistics/blob/main/project/report.md)  
+### [Correlation Analysis](https://github.com/Andreas-Svensson/Statistics/blob/main/project/report.md)  
 
-**Statistical report on correlation analysis for the iris flower dataset**  
-
+Statistical report on correlation analysis for the iris flower dataset  
 Using statistical analysis to examine correlation between flower petal and sepal measurements  
 
 ![](assets/iris_flower.png)  
