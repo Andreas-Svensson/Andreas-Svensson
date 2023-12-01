@@ -5,6 +5,7 @@ Currently working with Computer Vision
 <br>
 See some of my other projects below:  
 <br>  
+
 ### [AI Summarizer](https://github.com/Andreas-Svensson/summary_bot)  
 
 Summarizing AI news articles using a LLM to be displayed in a dashboard and sent to Discord as daily news updates  
